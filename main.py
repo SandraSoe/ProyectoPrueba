@@ -14,3 +14,5 @@ print(datocadena)
 print(datodouble)
 
 print(type(True))
+print(type(str))
+
